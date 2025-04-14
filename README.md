@@ -9,20 +9,24 @@
 
 ---
 
-### 🧠 Who Am I?
+### About Me
 
-- CSE Undergrad @ **NIT Agartala ('27)**  
+- CSE Undergrad @ **NIT Agartala ('27)**
+- 🏆Achievement
+- Runner-up @Coderelay 3.0, IIT Bhubaneswar, State-Level Cyber Security Hackathon (Tripura) and Pravah Hackathon ITAC-Tech Conclave 
+
 - UI enthusiast · React fanatic · Full-stack explorer  
 - Obsessed with performance, design systems & web animation  
-- Minimalist at heart — clean code, clean UI, clean vibes  
+- Minimalist at heart — clean code, clean UI, clean vibes
+  
+- Contact: satyamkesarwani2020@gmail.com 
 
 ---
 
-### 💼 Tech Stack
+### Tech Stack
 
 #### 🎨 Frontend  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 
@@ -53,22 +57,10 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamkes&theme=dark&hide_border=false&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkes&theme=dark&hide_border=false&layout=compact" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=satyamkes&theme=dark&hide_border=false" />
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
-  <a href="https://traillio.pages.dev">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/satyam-kumar-kesarwani-763b61293/">
@@ -81,7 +73,6 @@
 
 ---
 
-### 🎥 Dev Aesthetics
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
@@ -95,4 +86,3 @@
 <p align="center"><b>Developed with clean logic, minimal UI, and a lot of <code>console.log()</code></b></p>
 
 ---
-
