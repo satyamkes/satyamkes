@@ -14,8 +14,8 @@
 I'm a **CSE Undergrad** at **NIT Agartala ('27)**
 🏆 **Achievements**:
 - **Runner-up** at **Coderelay 3.0**, IIT Bhubaneswar
-- **State-Level Cyber Security Hackathon** (Tripura)
-- **Pravah Hackathon** at **North-East Industry-Technical Academia Conclave 2025**
+- **Runner-up** at **State-Level Cyber Security Hackathon** (Tripura)
+-  **Runner-up** at **Pravah Hackathon** at **North-East Industry-Technical Academia Conclave 2025**
 
 I’m always pushing myself to explore both **frontend** and **full-stack** development, focusing on performance, minimalistic design, and optimizing the user experience.
   
