@@ -11,13 +11,13 @@
 
 ### About Me
 
-- CSE Undergrad @ **NIT Agartala ('27)**
-- 🏆Achievement
-- Runner-up @Coderelay 3.0, IIT Bhubaneswar, State-Level Cyber Security Hackathon (Tripura) and Pravah Hackathon ITAC-Tech Conclave 
+I'm a **CSE Undergrad** at **NIT Agartala ('27)**
+🏆 **Achievements**:
+- **Runner-up** at **Coderelay 3.0**, IIT Bhubaneswar
+- **State-Level Cyber Security Hackathon** (Tripura)
+- **Pravah Hackathon** at **North-East Industry-Technical Academia Conclave 2025**
 
-- UI enthusiast · React fanatic · Full-stack explorer  
-- Obsessed with performance, design systems & web animation  
-- Minimalist at heart — clean code, clean UI, clean vibes
+I’m always pushing myself to explore both **frontend** and **full-stack** development, focusing on performance, minimalistic design, and optimizing the user experience.
   
 - Contact: satyamkesarwani2020@gmail.com 
 
