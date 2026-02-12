@@ -50,18 +50,22 @@ I’m always pushing myself to explore both **frontend** and **full-stack** deve
 
 ---
 
+<p align="center">
+  <img src="https://www.himtechdist.com/images/infrastructure.gif" width="450"/>
+</p>
+
 ### 📌 Currently Building
 
 - Full-stack products using React + Node.js  
 - UI kits and animations in Tailwind/Figma  
-- Improving web performance & accessibility  
-
+- Optimized APIs
+ 
 ---
 
 ## Let's Connect
 
 <div align="center">
-  <a href="">
+  <a href="https://myportfolio-beta-woad.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/satyam-kumar-kesarwani-763b61293/">
