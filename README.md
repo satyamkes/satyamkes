@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="220px" />
+  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="420" alt="typing" />
 </p>
 
 ---
