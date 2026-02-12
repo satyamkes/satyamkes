@@ -65,29 +65,23 @@ I’m always pushing myself to explore both **frontend** and **full-stack** deve
 ## Let's Connect
 
 <div align="center">
-  <a href="https://myportfolio-beta-woad.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+     <a href="https://myportfolio-beta-woad.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/satyam-kumar-kesarwani-763b61293/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/satyamkes">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 ---
 
 
+
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/3ohs7KViF5w0GVzBFe/giphy.gif" width="250" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkes&theme=nightowl&hide_border=true" />
 </p>
+<p align="center"><b>Debug... Improve... Repeat...</b></p>
 
----
-
-
-<p align="center"><b>Developed with clean logic, minimal UI, and a lot of <code>console.log()</code></b></p>
 
 ---
