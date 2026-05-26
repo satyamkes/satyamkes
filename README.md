@@ -8,47 +8,79 @@
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="420" alt="typing" />
 </p>
 
-## About Me
 
-```javascript
-const satyam = {
-    role: "Full Stack Developer",
-    education: "NIT Agartala - CSE (2023-2027)",
 
-    languages: [
-        "C++",
-        "JavaScript",
-        "TypeScript",
-        "Python"
-    ],
+## Developer Stats
 
-    frontend: [
-        "React",
-        "Tailwind CSS",
-        "Bootstrap"
-    ],
+<table>
+<tr>
+<td width="55%">
 
-    backend: [
-        "Node.js",
-        "Express.js",
-        "Flask"
-    ],
+```bash
+$ whoami
 
-    databases: [
-        "MongoDB",
-        "MySQL",
-        "PostgreSQL",
-        "Redis"
-    ],
+Satyam Kumar Kesarwani
 
-    achievements: [
-        "Runner-up - IIT Bhubaneswar Coderelay 3.0",
-        "Runner-up - State-Level Cyber Security Hackathon",
-        "Runner-up - Pravah Hackathon 2025"
-    ],
-};
+$ education
+
+B.Tech CSE @ NIT Agartala ('27)
+
+$ specialization
+
+Full Stack Development
+Backend Engineering
+System Design
+
+$ achievements
+
+🥈 IIT Bhubaneswar Coderelay 3.0
+🥈 State-Level Cyber Security Hackathon
+🥈 Pravah Hackathon 2025
+
+$ current_mission
+
+Build scalable products
+Master distributed systems
+Crack top software internships
 ```
-## ⚡ Tech Stack
+
+</td>
+
+<td width="45%">
+
+```txt
+SYSTEM STATUS
+
+DSA         ████████░░ 80%
+BACKEND     █████████░ 90%
+REACT       ████████░░ 80%
+DEVOPS      ██████░░░░ 60%
+
+
+CURRENT PROJECT
+
+ codingpath.org
+
+STATUS : LIVE 🟢
+
+FEATURES OF CODINGPATH PLATFORM
+→ DSA + DEV + SYSTEM DESIGN
+→ Interview Preparation
+→ Learning Resources
+→ Progress Stats
+
+CURRENTLY:
+→ Building Full Stack Projects
+→ Learning System Design
+→ Exploring AI & ML
+
+```
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
 
 <table>
 <tr>
