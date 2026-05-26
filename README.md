@@ -118,7 +118,7 @@ CURRENTLY:
 </tr>
 </table>
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://myportfolio-pi-two-33.vercel.app/">
