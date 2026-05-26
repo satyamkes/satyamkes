@@ -8,21 +8,52 @@
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="420" alt="typing" />
 </p>
 
----
+## 👨‍💻 About Me
 
-### About Me
+```javascript
+const satyam = {
+    role: "Full Stack Developer",
+    education: "NIT Agartala - CSE (2023-2027)",
 
-I'm a **CSE Undergrad** at **NIT Agartala ('27)**
-🏆 **Achievements**:
-- **Runner-up** at **Coderelay 3.0**, **IIT Bhubaneswar Hackathon**
-- **Runner-up** at **State-Level Cyber Security Hackathon** (Tripura)
-- **Runner-up** at **Pravah Hackathon** at **North-East Industry-Technical Academia Conclave 2025**
+    languages: [
+        "C++",
+        "JavaScript",
+        "TypeScript",
+        "Python"
+    ],
 
-I’m always pushing myself to explore both **frontend** and **full-stack** development, focusing on performance, minimalistic design, and optimizing the user experience.
-  
-- Contact: satyamkesarwani2020@gmail.com 
+    frontend: [
+        "React",
+        "Tailwind CSS",
+        "Bootstrap"
+    ],
 
----
+    backend: [
+        "Node.js",
+        "Express.js",
+        "Flask"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL",
+        "Redis"
+    ],
+
+    achievements: [
+        "Runner-up - IIT Bhubaneswar Coderelay 3.0",
+        "Runner-up - State-Level Cyber Security Hackathon",
+        "Runner-up - Pravah Hackathon 2025"
+    ],
+
+    currentlyLearning: [
+        "System Design",
+        "Backend Development",
+        "Machine Learning"
+    ]
+};
+```
 
 ### Tech Stack
 
