@@ -1,4 +1,4 @@
-<!-- 🧠 Typing Animation -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=850&lines=Hey+there!+I'm+Satyam;Full+Stack+Developer+from+NIT+Agartala;Python+|+React+|+Node.js;I+architect+scalable+solutions;Let's+build+something+extraordinary" alt="Typing animation" />
 </p>
@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="420" alt="typing" />
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 ```javascript
 const satyam = {
@@ -48,44 +48,43 @@ const satyam = {
     ],
 };
 ```
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-## Languages
+<table>
+<tr>
+<td align="center" width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css" /><br/>
+<sub>Core coding and problem-solving</sub>
 
-## Frontend
+</td>
+<td align="center" width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
-</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" /><br/>
+<sub>UI, responsive design, fast interfaces</sub>
 
-## Backend & Databases
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgresql,redis,firebase" />
-</p>
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgresql,redis,firebase" /><br/>
+<sub>APIs, auth, storage, caching</sub>
 
-## DevOps & Cloud
+</td>
+<td align="center" width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vercel,vscode,postman" />
-</p>
----
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vercel,vscode,postman" /><br/>
+<sub>Deployment, tooling, productivity</sub>
 
-<p align="center">
-  <img src="https://www.himtechdist.com/images/infrastructure.gif" width="450"/>
-</p>
+</td>
+</tr>
+</table>
 
-### 📌 Currently Building
-
-- Full-stack products using React + Node.js  
-- UI kits and animations in Tailwind/Figma  
-- Optimized APIs
- 
----
 # 🤝 Let's Connect
 
 <p align="center">
@@ -101,7 +100,6 @@ const satyam = {
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
 
 
 
