@@ -51,10 +51,11 @@ Crack top software internships
 ```txt
 SYSTEM STATUS
 
-DSA         ████████░░ 80%
-BACKEND     █████████░ 90%
-REACT       ████████░░ 80%
-DEVOPS      ██████░░░░ 60%
+C++         █████████░
+DSA         ████████░░
+BACKEND     ███████░░░
+REACT       ███████░░░
+DEVOPS      ████░░░░░░
 
 
 CURRENT PROJECT
