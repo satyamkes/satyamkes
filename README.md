@@ -135,12 +135,7 @@ CURRENTLY:
 </p>
 
 
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkes&theme=nightowl&hide_border=true" />
-</p>
-<p align="center"><b>Debug... Improve... Repeat...</b></p>
+<p align="center"><b>keep going...</b></p>
 
 
 ---
