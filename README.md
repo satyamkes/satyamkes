@@ -24,6 +24,7 @@ Satyam Kumar Kesarwani
 $ education
 
 B.Tech CSE @ NIT Agartala ('27)
+JEE Main '23: 98.18%ile (Top 1.8%)
 
 $ specialization
 
@@ -33,9 +34,12 @@ System Design
 
 $ achievements
 
-🥈 IIT Bhubaneswar Coderelay 3.0
-🥈 State-Level Cyber Security Hackathon
-🥈 Pravah Hackathon 2025
+Token of Appreciation 🏆 IISC, NIT Agartala (CodingPath)
+Runner-Up 🥈 IIT Bhubaneswar Coderelay 3.0
+Runner-Up 🥈 State-Level Cyber Security Hackathon
+Runner-Up 🥈 Pravah Hackathon 2025
+Finalist 🏆 National Entrepreneurship Challenge (IIT Bombay)
+3-Star Coder ⭐️ CodeChef (Max Rating: 1649)
 
 $ current_mission
 
